@@ -1,0 +1,10 @@
+.container{
+  background-color: rgba(0, 0, 0, 1);
+  text-align: center;
+  color: white;
+}
+
+.time{
+  padding: 300px 0;
+  font-size: 30px;
+}
